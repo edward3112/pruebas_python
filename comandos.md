@@ -21,3 +21,6 @@ git branch -D "RAMA" --eliminar la rama
 
 un flujo de trabajo habitual
 git checkout -b feat/index -- algo nuevo en index de un error que aparecio
+
+git merge unir la rama 
+git merge <rama> -- aqui unir el contenido de rama al actual
